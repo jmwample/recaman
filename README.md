@@ -21,5 +21,5 @@ steps in the recaman seuence.
 ## Images
 
 ![Semi-circles](img/recaman_64_k.png "Recaman 64 Semi-circles")
-![Diamonds](img/recaman_64_k.png "Recaman 64 Diamonds")
+![Diamonds](img/recaman_64_k_d.png "Recaman 64 Diamonds")
 ![Forward/Backward](img/recaman_1000_rb_d.png "Recaman 1000 Diamonds")
